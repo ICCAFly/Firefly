@@ -1,12 +1,12 @@
 ---
 title: Firefly 一款清新美观的 Astro 博客主题模板
-published: 1970-01-02
+published: 2026-03-09
 pinned: true
 description: Firefly 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
 tags: [Markdown, Firefly, 博客, 主题, 模板]
 category: 文章示例
 draft: false
-image: ./images/firefly2.avif
+image: ./images/firefly1.avif
 ---
 
 ## 🌟 项目概述
@@ -14,9 +14,7 @@ image: ./images/firefly2.avif
 **Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
 
 
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
-
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
+**🏠我的博客： [ColorCJY](https://rikka.zone.id/)**
 
 **📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
 
@@ -27,8 +25,6 @@ image: ./images/firefly2.avif
 ::github{repo="CuteLeaf/Firefly"}
 
 ::github{repo="saicaca/fuwari"}
-
-![Firefly](./images/1.avif)
 
 
 ## 🚀 技术架构
@@ -42,3 +38,15 @@ image: ./images/firefly2.avif
 ## 📖 配置说明
 
 > 📚 **详细配置文档**: 查看 [Firefly使用文档](https://docs-firefly.cuteleaf.cn/) 获取完整的配置指南
+
+
+## 📘 使用指南
+- [Firefly 简单使用指南](https://firefly.cuteleaf.cn/posts/guide/)
+- [Firefly 布局系统详解](https://firefly.cuteleaf.cn/posts/firefly-layout-system/)
+- [Firefly 代码块示例](https://firefly.cuteleaf.cn/posts/code-examples/)
+- [Firefly 文章加密](https://rikka.zone.id/posts/encrypted-demo/)
+- [Firefly 在文章中嵌入视频](https://firefly.cuteleaf.cn/posts/video/)
+- [KaTeX 数学公式示例](https://firefly.cuteleaf.cn/posts/katex-math-example/)
+- [MDX 格式文章示例](https://firefly.cuteleaf.cn/posts/mdx-example/)
+- [Markdown Mermaid 图表](https://firefly.cuteleaf.cn/posts/markdown-mermaid/)
+- [Markdown 扩展功能](https://firefly.cuteleaf.cn/posts/markdown-extended/)
